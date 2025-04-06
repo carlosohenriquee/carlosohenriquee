@@ -1,6 +1,6 @@
 ## Oi, eu sou o Carlos Henrique!
 
-- 📊 Assistente Financeiro na @[Sestini](https://www.sestini.com.br/)
+- 📊 Auxiliar de TI
 - 📚 Estudante de Java, AWS, Azure, SQL e ADVPL/TLPP
 - 🎓 Formando em Gestão Financeira
 - 👩🏻‍💻 Cursando Análise e Desenvolvimento de Sistemas
