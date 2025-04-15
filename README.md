@@ -2,7 +2,7 @@
 
 - 📊 Auxiliar de TI
 - 📚 Estudante de Java, AWS, Azure, SQL e ADVPL/TLPP
-- 🎓 Formando em Gestão Financeira
+- 🎓 1x AWS Certified
 - 👩🏻‍💻 Cursando Análise e Desenvolvimento de Sistemas
   
 <div style="display: inline_block"><br>
