@@ -1,7 +1,7 @@
 ## Oi, eu sou o Carlos Henrique!
 
 - 📊 Assistente de TI
-- 📚 Estudante de Java, AWS, Azure e SQL.
+- 📚 Estudante de Java, AWS, Azure e SQL
 - 🎓 1x AWS Certified
 - 👩🏻‍💻 Cursando Análise e Desenvolvimento de Sistemas
   
